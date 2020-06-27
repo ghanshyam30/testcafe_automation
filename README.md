@@ -12,7 +12,7 @@ To keep track below is the list-
 ## How to execute
 testcafe firefox tests/dev.js --skip-js-errors
 OR
-testcafe tests/dev.js --skip-js-errors
+node tests/testRunner.js --skip-js-errors
 
 ## Reference 
 Part1 : https://dev.to/chrisvasqm/e2e-testing-with-testcafe-17jl
